@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "Capy 2.3",
-  "apkUrl": "https://github.com/brgalaxy/capy-wallet-updates/raw/main/capy.apk",
-  "changelog": "Melhorias de desempenho no motor gráfico e correção de pequenos bugs visuais."
+  "versionCode": 4,
+  "versionName": "2.4",
+  "changelog": "• Nova alavanca de Vibrações reduzidas no Material Design 3;\n• Animação One UI ajustada para 1.2s;\n• Correções estruturais de internacionalização.",
+  "apkUrl": "https://github.com/brgalaxy/capy-wallet-updates/raw/main/capy.apk"
 }
