@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "2.9",
+  "versionCode": 3,
+  "versionName": "3.0",
   "changelog": "[PT-BR]\n• Novo menu de configurações;\n• Sistema de atualizações OTA via GitHub;\n• Nova opção de 'Vibrações reduzidas' (Material Design 3);\n• Correção de tradução nos botões de importar backup;\n• Agendamento de vencimentos com lembretes por notificações personalizáveis.\n\n[EN-US]\n• New settings menu;\n• OTA update system via GitHub;\n• New 'Reduced haptics' option (Material Design 3);\n• Fixed translation on backup import buttons;\n• Due date scheduling with customizable notification reminders.",
-  "apkUrl": "https://github.com/brgalaxy/capy-wallet-updates/releases/download/v2.9/capy.apk"
+  "apkUrl": "https://github.com/brgalaxy/capy-wallet-updates/releases/download/v3.0/capy.apk"
 }
