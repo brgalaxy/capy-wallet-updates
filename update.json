@@ -1,5 +1,5 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "3.1",
   "changelog": "[PT-BR]\n• Correção na exibição dos textos do tutorial;\n• Ajuste de elevação da pílula de navegação para evitar colisão com botões virtuais.\n\n[EN-US]\n• Fixed display of tutorial texts;\n• Raised navigation pill elevation to prevent collision with button-based navigation.",
   "apkUrl": "https://github.com/brgalaxy/capy-wallet-updates/releases/download/v3.1/capy.apk"
